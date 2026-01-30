@@ -1,10 +1,10 @@
-# 💮🌸💮🌸💮🌸💮🌸💮🌸💮🌸💮🌸💮🌸💮🌸💮🌸💮🌸💮
+# 💮🌸💮🌸💮🌸💮🌸💮🌸💮🌸💮🌸💮🌸💮🌸💮🌸💮🌸
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sakuyaloli/sakuyaloli/refs/heads/main/8574fad05b72a689d836edc34377733a_V1(1).gif" alt="Sakuya's Animated Header" width="100%" />
 </p>
 
-## About Me
+## Who are you!?
 
 Hello, I'm **Sakuya** (they/them). I'm a developer who loves building tools that are easy to use and accessible for everyone. Right now, I focus on working with AI, developing visual interfaces, and optimizing workflows. My main project is **Glorpi**, an AI prompt builder that simplifies the process of interacting with machine learning models.
 
@@ -31,12 +31,6 @@ I’m passionate about creating inclusive, user-friendly projects, and I love co
 
 ---
 
-## Let's Connect
-
-Feel free to browse my repositories. I love collaborating on new ideas, so don’t hesitate to open an issue or PR if something catches your eye. Whether you want to discuss a project or work on something together, I’m always open to new conversations!
-
----
-
 ## Badges
 
 <p align="center">
@@ -49,16 +43,6 @@ Feel free to browse my repositories. I love collaborating on new ideas, so don�
 
 ---
 
-## Code of Conduct
-
-This repository and all associated projects adhere to a **Code of Conduct**. We are committed to creating a welcoming and inclusive environment for all contributors. Please review the [Code of Conduct](https://link-to-your-code-of-conduct).
-
-## License
-
-All content in this repository is available under the [MIT License](https://opensource.org/licenses/MIT).
-
----
-
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif" width="40%" />
+  <img src="https://private-user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njk4MDkwMjQsIm5iZiI6MTc2OTgwODcyNCwicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc2MTgtZGUzMDAxNWYtZGM1Zi00ZWNmLWE0OWItY2NkMmI4OTc3NmU0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTMwVDIxMzIwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWViYmViODAxY2UwMGIwNThmZDQwNzIwNzdlYzA0NWRlMjQ3Y2M0YzUwMjMyNmZmNDczM2YwMTgxMjRkNDZkZmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.RuVh1kK9WcWhPzajYQiDj6Q-QsXikds0ZpHq3Yyqntw" width="40%" />
 </p>
