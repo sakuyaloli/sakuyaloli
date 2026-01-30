@@ -44,5 +44,5 @@ I’m passionate about creating inclusive, user-friendly projects, and I love co
 ---
 
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njk4MDkwMjQsIm5iZiI6MTc2OTgwODcyNCwicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc2MTgtZGUzMDAxNWYtZGM1Zi00ZWNmLWE0OWItY2NkMmI4OTc3NmU0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTMwVDIxMzIwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWViYmViODAxY2UwMGIwNThmZDQwNzIwNzdlYzA0NWRlMjQ3Y2M0YzUwMjMyNmZmNDczM2YwMTgxMjRkNDZkZmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.RuVh1kK9WcWhPzajYQiDj6Q-QsXikds0ZpHq3Yyqntw" width="40%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="40%" />
 </p>
