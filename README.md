@@ -1,7 +1,7 @@
 # Welcome to Sakuya's GitHub Profile
 
 <p align="center">
-  <img src="https://i.ibb.co/h1BphTQx/8574fad05b72a689d836edc34377733a-V1-1.gif" alt="Sakuya's Animated Header" width="100%" />
+  <img src="https://raw.githubusercontent.com/sakuyaloli/sakuyaloli/refs/heads/main/8574fad05b72a689d836edc34377733a_V1(1).gif" alt="Sakuya's Animated Header" width="100%" />
 </p>
 
 ## About Me
