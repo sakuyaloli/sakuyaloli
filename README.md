@@ -1,25 +1,7 @@
 # Welcome to Sakuya's GitHub Profile
 
 <p align="center">
-  <svg width="500" height="100" viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      .animated-text {
-        font-family: 'Arial', sans-serif;
-        font-size: 50px;
-        fill: #FF69B4;
-        animation: animateText 4s ease-in-out infinite;
-      }
-      
-      @keyframes animateText {
-        0% { transform: translateY(0); }
-        25% { transform: translateY(-10px); }
-        50% { transform: translateY(0); }
-        75% { transform: translateY(10px); }
-        100% { transform: translateY(0); }
-      }
-    </style>
-    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" class="animated-text">Sakuya's GitHub</text>
-  </svg>
+  <img src="https://i.ibb.co/h1BphTQx/8574fad05b72a689d836edc34377733a-V1-1.gif" alt="Sakuya's Animated Header" width="100%" />
 </p>
 
 ## About Me
@@ -69,7 +51,7 @@ Feel free to browse my repositories. I love collaborating on new ideas, so donâ€
 
 ## Code of Conduct
 
-I strive to maintain a welcoming, inclusive, and respectful environment for all contributors. Please review my [Code of Conduct](https://link-to-your-code-of-conduct) and adhere to it when contributing.
+This repository and all associated projects adhere to a **Code of Conduct**. We are committed to creating a welcoming and inclusive environment for all contributors. Please review the [Code of Conduct](https://link-to-your-code-of-conduct).
 
 ## License
 
